@@ -1,0 +1,3 @@
+Hello Word!
+Esse é nosso primeiro arquivo para testarmos o traqueamento no git.
+Vamos continuar com nossos testes.
