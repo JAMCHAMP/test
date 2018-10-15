@@ -1,3 +1,4 @@
 Hello Word!
-Esse � nosso primeiro arquivo para testarmos o traqueamento no git.
+Esse é nosso primeiro arquivo para testarmos o traqueamento no git.
 Vamos continuar com nossos testes.
+Teste de alteração
